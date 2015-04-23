@@ -43,7 +43,7 @@ app.listen(3000);
 
 ## Example
 
-Take a look at the [Example Server]()
+Take a look at the [Example Server](https://github.com/johnhof/KError/blob/master/example/example.js)
 
 To Run:
 - `$ npm install`
