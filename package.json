@@ -1,0 +1,30 @@
+{
+  "name": "KError",
+  "version": "0.0.1",
+  "description": "A simple error handler and generator for the koa framework",
+  "main": "KError.js",
+  "scripts": {
+    "start": "node --harmony ./example/example",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnhof/KError.git"
+  },
+  "keywords": [
+    "koa",
+    "error",
+    "koa-error",
+    "KError"
+  ],
+  "author": "John Hofrichter",
+  "license": "https://github.com/johnhof/KError/blob/master/LICENSE",
+  "bugs": {
+    "url": "https://github.com/johnhof/KError/issues"
+  },
+  "homepage": "https://github.com/johnhof/KError",
+  "devDependencies": {
+    "koa": "^0.19.1",
+    "koa-route": "^2.4.1"
+  }
+}
